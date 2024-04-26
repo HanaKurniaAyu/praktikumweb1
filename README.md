@@ -45,3 +45,22 @@ Lembar gaya internal dapat digunakan jika satu halaman HTML memiliki gaya yang u
 # CSS inline
 Inline style dapat digunakan untuk menerapkan gaya unik pada satu elemen. Untuk menggunakan gaya sebaris, tambahkan atribut style ke elemen yang relevan. Atribut style dapat berisi properti CSS apa pun.
 
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/5d6cab40-253f-4d49-a4bc-a2ace80450f8)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/bc752252-5157-44b8-b1be-922973b58441)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/ac25e7c5-2be2-42bb-8f62-c20fa839e278)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/db50226d-5d47-420d-9485-a4ed54f4acb7)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/58851899-a478-4bf8-8422-9e5913aefefe)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/5707a557-e569-4c01-924f-aee18ed838ab)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/bc245a61-c29d-460e-a8bc-6d58d11233e5)
+
+![image](https://github.com/HanaKurniaAyu/praktikumweb1/assets/167958623/f60bb523-adf7-4107-a585-ebe7e7946d76)
+
+
+
+
